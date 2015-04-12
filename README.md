@@ -2,5 +2,8 @@ Case Converter
 =========
 
 
-This project is an idea I had after developping the node webkit lowerToUpper
+A chrome extension allowing you to convert text to lowercase or uppercase on the fly.
 
+Just type your text and you'll see it converted in the two other boxes.
+
+![Screenshot](/Capture.PNG "Screeshot")
