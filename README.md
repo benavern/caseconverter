@@ -7,3 +7,7 @@ A chrome extension allowing you to convert text to lowercase or uppercase on the
 Just type your text and you'll see it converted in the two other boxes.
 
 ![Screenshot](/Capture.PNG "Screeshot")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/benavern/caseconverter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
